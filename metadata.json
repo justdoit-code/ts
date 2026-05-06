@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel-MVP",
+  "description": "US Military Dynamics Monitoring Platform (Sentinel-MVP) provides real-time global situational awareness of US aircraft carriers, strategic bombers, and military bases using OSINT data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
